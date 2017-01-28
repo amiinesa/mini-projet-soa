@@ -1,6 +1,7 @@
 atlassian-ide-plugin.xml
 misc.xml
 workspace.xml
+.idea
 .idea/*
 .idea/mini-projet-soa.iml
 .idea/workspace.xml
